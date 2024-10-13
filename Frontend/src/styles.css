@@ -1,0 +1,17 @@
+.dashboard {
+    padding: 20px;
+}
+
+.date-picker {
+    margin-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.sparkline .total-visitors {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+}
