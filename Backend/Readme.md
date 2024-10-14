@@ -27,10 +27,10 @@ A Flask-based API server that tracks tasks. The server allows for creating, list
 
 3. Install dependencies:
    terminal
-   pip install flask flask_sqlalchemy
+   pip install flask flask_sqlalchemy pydantic typing flask_pydantic
 
    
-4. Run the app:
+5. Run the app:
    terminal
    ```python main.py```
    
