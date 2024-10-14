@@ -1,5 +1,5 @@
 
-# # Waterdip AI Front End Assignment
+## Waterdip AI Front End Assignment
 
 ## Overview
 A React-based single-page dashboard that visualizes hotel booking data with the following features:
