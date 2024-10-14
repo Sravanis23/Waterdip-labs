@@ -22,7 +22,7 @@ The dataset consists of 1,000 hotel booking records with the following columns:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/Sravanis23/Waterdip-labs.git
+   git clone https://github.com/Sravanis23/Waterdip-labs.git (directory: /frontend)
    
 
 2. Install dependencies:
