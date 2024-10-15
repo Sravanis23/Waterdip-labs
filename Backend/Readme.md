@@ -76,7 +76,6 @@ A Flask-based API server that tracks tasks. The server allows for creating, list
 
 ## Database Setup
 - *SQLAlchemy* is used to define models and handle database interactions.
-- *SQLite* is used for simplicity, but can be swapped for PostgreSQL for production environments.
 
 ## Task Model
 - id: Integer (Primary Key)
